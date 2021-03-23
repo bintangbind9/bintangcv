@@ -1,0 +1,8 @@
+{
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "require": {
+        "phpmailer/phpmailer": "^6.3"
+    }
+}
